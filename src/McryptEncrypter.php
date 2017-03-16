@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\LegacyEncrypter;
+namespace GenPage\LegacyEncrypter;
 
 use Exception;
 use RuntimeException;
