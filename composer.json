@@ -1,5 +1,5 @@
 {
-    "name": "laravel/legacy-encrypter",
+    "name": "genpage/legacy-encrypter",
     "description": "The legacy version of the Laravel mcrypt encrypter.",
     "license": "MIT",
     "homepage": "http://laravel.com",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Laravel\\LegacyEncrypter\\": "src/"
+            "GenPage\\LegacyEncrypter\\": "src/"
         }
     },
     "extra": {
